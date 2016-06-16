@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mysqldump xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <database name="Base">
+        <table_data name="seller">
+            <row>
+                <field name="id_seller">1</field>
+                <field name="src_id">1</field>
+                <field name="verified">1</field>
+                <field name="fk_user_verified" xsi:nil="true" />
+                <field name="access_key"></field>
+                <field name="account_status">1</field>
+                <field name="email">seller-1@mailinator.com</field>
+                <field name="set_password_key"></field>
+                <field name="name">name_1</field>
+                <field name="name_company">name_company_1</field>
+                <field name="cms_company_type" xsi:nil="true" />
+                <field name="vat_number" xsi:nil="true" />
+                <field name="agreements_accepted">1</field>
+                <field name="agreements_accepted_at" xsi:nil="true" />
+                <field name="src_updated_at">2015-03-19 04:09:45</field>
+                <field name="created_at">2015-03-20 10:38:20</field>
+                <field name="updated_at">2015-03-20 10:38:20</field>
+                <field name="fk_upload" xsi:nil="true" />
+                <field name="short_code">PK10001</field>
+                <field name="order_limit_reached">0</field>
+                <field name="registration_src">admin_signup</field>
+                <field name="completed_registration">1</field>
+                <field name="registration_step" xsi:nil="true" />
+                <field name="has_valid_license">1</field>
+                <field name="person_in_charge" xsi:nil="true" />
+                <field name="business_reg_number" xsi:nil="true" />
+                <field name="geography" xsi:nil="true" />
+                <field name="is_brand_owner" xsi:nil="true" />
+                <field name="brands" xsi:nil="true" />
+                <field name="main_categories" xsi:nil="true" />
+                <field name="sell_product_number" xsi:nil="true" />
+                <field name="additional_account_information" xsi:nil="true" />
+                <field name="additional_business_information" xsi:nil="true" />
+                <field name="additional_shop_information" xsi:nil="true" />
+                <field name="additional_Base_information" xsi:nil="true" />
+                <field name="additional_bank_account_information" xsi:nil="true" />
+                <field name="tmp_data" xsi:nil="true" />
+                <field name="tax_class">local</field>
+                <field name="fk_catalog_category" xsi:nil="true" />
+                <field name="signup_retargeted_at" xsi:nil="true" />
+                <field name="verified_at" xsi:nil="true" />
+                <field name="last_verified_at" xsi:nil="true" />
+                <field name="fk_user_approve" xsi:nil="true" />
+                <field name="last_approval_at" xsi:nil="true" />
+            </row>
+
+            <row>
+                <field name="id_seller">2909</field>
+                <field name="src_id">8</field>
+                <field name="verified">1</field>
+                <field name="fk_user_verified" xsi:nil="true" />
+                <field name="access_key"></field>
+                <field name="account_status">1</field>
+                <field name="email">seller-8@mailinator.com</field>
+                <field name="set_password_key"></field>
+                <field name="name">name_8</field>
+                <field name="name_company">name_company_8</field>
+                <field name="cms_company_type" xsi:nil="true" />
+                <field name="vat_number" xsi:nil="true" />
+                <field name="agreements_accepted">1</field>
+                <field name="agreements_accepted_at" xsi:nil="true" />
+                <field name="src_updated_at">2015-03-19 04:09:45</field>
+                <field name="created_at">2015-03-20 10:38:20</field>
+                <field name="updated_at">2015-03-20 10:38:20</field>
+                <field name="fk_upload" xsi:nil="true" />
+                <field name="short_code">PK10008</field>
+                <field name="order_limit_reached">0</field>
+                <field name="registration_src">admin_signup</field>
+                <field name="completed_registration">1</field>
+                <field name="registration_step" xsi:nil="true" />
+                <field name="has_valid_license">1</field>
+                <field name="person_in_charge" xsi:nil="true" />
+                <field name="business_reg_number" xsi:nil="true" />
+                <field name="geography" xsi:nil="true" />
+                <field name="is_brand_owner" xsi:nil="true" />
+                <field name="brands" xsi:nil="true" />
+                <field name="main_categories" xsi:nil="true" />
+                <field name="sell_product_number" xsi:nil="true" />
+                <field name="additional_account_information" xsi:nil="true" />
+                <field name="additional_business_information" xsi:nil="true" />
+                <field name="additional_shop_information" xsi:nil="true" />
+                <field name="additional_Base_information" xsi:nil="true" />
+                <field name="additional_bank_account_information" xsi:nil="true" />
+                <field name="tmp_data" xsi:nil="true" />
+                <field name="tax_class">local</field>
+                <field name="fk_catalog_category" xsi:nil="true" />
+                <field name="signup_retargeted_at" xsi:nil="true" />
+                <field name="verified_at" xsi:nil="true" />
+                <field name="last_verified_at" xsi:nil="true" />
+                <field name="fk_user_approve" xsi:nil="true" />
+                <field name="last_approval_at" xsi:nil="true" />
+            </row>
+
+            <row>
+                <field name="id_seller">47</field>
+                <field name="src_id">47</field>
+                <field name="verified">1</field>
+                <field name="fk_user_verified" xsi:nil="true" />
+                <field name="access_key"></field>
+                <field name="account_status">1</field>
+                <field name="email">seller-47@mailinator.com</field>
+                <field name="set_password_key"></field>
+                <field name="name">name_47</field>
+                <field name="name_company">name_company_47</field>
+                <field name="cms_company_type" xsi:nil="true" />
+                <field name="vat_number" xsi:nil="true" />
+                <field name="agreements_accepted">1</field>
+                <field name="agreements_accepted_at" xsi:nil="true" />
+                <field name="src_updated_at">2015-03-19 04:09:45</field>
+                <field name="created_at">2015-03-20 10:38:20</field>
+                <field name="updated_at">2015-03-20 10:38:20</field>
+                <field name="fk_upload" xsi:nil="true" />
+                <field name="short_code">PK1001C</field>
+                <field name="order_limit_reached">0</field>
+                <field name="registration_src">admin_signup</field>
+                <field name="completed_registration">1</field>
+                <field name="registration_step" xsi:nil="true" />
+                <field name="has_valid_license">1</field>
+                <field name="person_in_charge" xsi:nil="true" />
+                <field name="business_reg_number" xsi:nil="true" />
+                <field name="geography" xsi:nil="true" />
+                <field name="is_brand_owner" xsi:nil="true" />
+                <field name="brands" xsi:nil="true" />
+                <field name="main_categories" xsi:nil="true" />
+                <field name="sell_product_number" xsi:nil="true" />
+                <field name="additional_account_information" xsi:nil="true" />
+                <field name="additional_business_information" xsi:nil="true" />
+                <field name="additional_shop_information" xsi:nil="true" />
+                <field name="additional_Base_information" xsi:nil="true" />
+                <field name="additional_bank_account_information" xsi:nil="true" />
+                <field name="tmp_data" xsi:nil="true" />
+                <field name="tax_class">local</field>
+                <field name="fk_catalog_category" xsi:nil="true" />
+                <field name="signup_retargeted_at" xsi:nil="true" />
+                <field name="verified_at" xsi:nil="true" />
+                <field name="last_verified_at" xsi:nil="true" />
+                <field name="fk_user_approve" xsi:nil="true" />
+                <field name="last_approval_at" xsi:nil="true" />
+            </row>
+        </table_data>
+
+        <table_data name="upload">
+            <row>
+                <field name="id_upload">1</field>
+                <field name="fk_seller">1</field>
+                <field name="fk_user">1</field>
+                <field name="session">new</field>
+                <field name="name">test_IMAGE1.jpg</field>
+                <field name="mime">image/jpeg</field>
+                <field name="ext">jpg</field>
+                <field name="deleted">0</field>
+                <field name="ref">new</field>
+                <field name="uploaded">2013-12-03 19:35:45</field>
+                <field name="removed" xsi:nil="true"/>
+            </row>
+            <row>
+                <!-- ready for push to bob product set -->
+                <field name="id_upload">2</field>
+                <field name="fk_seller">2</field>
+                <field name="fk_user">1</field>
+                <field name="session">test</field>
+                <field name="name">test_IMAGE2.jpg</field>
+                <field name="uploaded">2013-12-05 12:07:08</field>
+                <field name="removed" xsi:nil="true"/>
+                <field name="mime">image/jpeg</field>
+                <field name="ext">jpg</field>
+                <field name="deleted">0</field>
+                <field name="ref">new</field>
+            </row>
+            <row>
+                <!-- testResolveImageDimensions() - image with given ref -->
+                <field name="id_upload">3</field>
+                <field name="fk_seller">2</field>
+                <field name="fk_user">1</field>
+                <field name="session">test</field>
+                <field name="name">test_IMAGE3.jpg</field>
+                <field name="uploaded">2013-12-05 12:07:08</field>
+                <field name="removed" xsi:nil="true"/>
+                <field name="mime">image/jpeg</field>
+                <field name="ext">jpg</field>
+                <field name="deleted">0</field>
+                <field name="ref">800x600</field>
+            </row>
+            <row>
+                <!-- testResolveImageDimensions() - image with empty ref - will be updated in the test method! -->
+                <field name="id_upload">4</field>
+                <field name="fk_seller">2</field>
+                <field name="fk_user">1</field>
+                <field name="session">test</field>
+                <field name="name">shoe.jpg</field>
+                <field name="uploaded">2013-12-05 12:07:08</field>
+                <field name="removed" xsi:nil="true"/>
+                <field name="mime">image/jpeg</field>
+                <field name="ext">jpg</field>
+                <field name="deleted">0</field>
+                <field name="ref">-</field>
+            </row>
+            <row>
+                <!-- testImageProcessing() original image -->
+                <field name="id_upload">5</field>
+                <field name="fk_seller">2</field>
+                <field name="fk_user">1</field>
+                <field name="session">test</field>
+                <field name="name">shoe.jpg</field>
+                <field name="uploaded">2013-12-05 12:07:08</field>
+                <field name="removed" xsi:nil="true"/>
+                <field name="mime">image/jpeg</field>
+                <field name="ext">jpg</field>
+                <field name="deleted">0</field>
+                <field name="ref">-</field>
+            </row>
+            <row>
+                <!-- testImageProcessing() cropped image-->
+                <field name="id_upload">6</field>
+                <field name="fk_seller">2</field>
+                <field name="fk_user">1</field>
+                <field name="session">test</field>
+                <field name="name">shoe.jpg</field>
+                <field name="uploaded">2013-12-05 12:07:08</field>
+                <field name="removed" xsi:nil="true"/>
+                <field name="mime">image/jpeg</field>
+                <field name="ext">jpg</field>
+                <field name="deleted">0</field>
+                <field name="ref">-</field>
+            </row>
+
+        </table_data>
+
+        <table_data name="catalog_category">
+            <row>
+                <field name="id_catalog_category">1</field>
+                <field name="status">active</field>
+                <field name="lft">1</field>
+                <field name="rgt">2</field>
+                <field name="name">Test Category 1</field>
+                <field name="src_id">1</field>
+            </row>
+        </table_data>
+
+        <table_data name="qc_pending_list_item">
+            <row>
+                <field name="id_qc_pending_list_item">44037</field>
+                <field name="filter">content</field>
+                <field name="product_set_id">9132</field>
+                <field name="seller_id">2909</field>
+                <field name="user_id">47</field>
+                <field name="seller_name">name_43</field>
+                <field name="product_name">Case-Logic CL-DCB301K čierne</field>
+                <field name="product_sku">IN843ELAC6DBSKBID-108090</field>
+                <field name="seller_sku">IN843ELAC6DBSKBID</field>
+                <field name="primary_category_id">1</field>
+                <field name="creation_date">2015-03-20 10:55:02</field>
+                <field name="pending_since">2016-03-11 16:44:32</field>
+                <field name="brand_name">Case-Logic</field>
+            </row>
+
+            <row>
+                <field name="id_qc_pending_list_item">44039</field>
+                <field name="filter">content</field>
+                <field name="product_set_id">9131</field>
+                <field name="seller_id">2909</field>
+                <field name="user_id">47</field>
+                <field name="seller_name">name_43</field>
+                <field name="product_name">Case-Logic SLRC206 profesionálny batoh na SLR fotoaparát</field>
+                <field name="product_sku">IN843ELAC6DASKBID-108089</field>
+                <field name="seller_sku">IN843ELIF</field>
+                <field name="primary_category_id">1</field>
+                <field name="creation_date">2015-03-20 10:55:02</field>
+                <field name="pending_since">2016-03-16 00:00:00</field>
+                <field name="brand_name">Case-Logic</field>
+            </row>
+
+            <row>
+                <field name="id_qc_pending_list_item">44033</field>
+                <field name="filter">content</field>
+                <field name="product_set_id">8110</field>
+                <field name="seller_id">2909</field>
+                <field name="user_id">1</field>
+                <field name="seller_name">name_43</field>
+                <field name="product_name">Walimex Univ. Optický komínok, VC&amp;K&amp;DS</field>
+                <field name="product_sku">IN843ELAC5KXSKBID-107068</field>
+                <field name="seller_sku">IN843ELAC5KXSKBID</field>
+                <field name="primary_category_id">683</field>
+                <field name="creation_date">2015-03-20 10:55:00</field>
+                <field name="pending_since">2016-03-16 16:08:08</field>
+                <field name="brand_name">Walimex</field>
+            </row>
+
+            <row>
+                <field name="id_qc_pending_list_item">44034</field>
+                <field name="filter">content</field>
+                <field name="product_set_id">7978</field>
+                <field name="seller_id">43</field>
+                <field name="user_id">1</field>
+                <field name="seller_name">name_43</field>
+                <field name="product_name">Walimex Pro Beauty Dish 70cm biely, VC</field>
+                <field name="product_sku">IN843ELAC5H9SKBID-106936</field>
+                <field name="seller_sku">IN843ELAC5H9SKBID</field>
+                <field name="primary_category_id">683</field>
+                <field name="creation_date">2015-03-20 10:55:00</field>
+                <field name="pending_since">2016-03-16 16:09:06</field>
+                <field name="brand_name">Walimex</field>
+            </row>
+
+            <row>
+                <field name="id_qc_pending_list_item">44035</field>
+                <field name="filter">content</field>
+                <field name="product_set_id">7856</field>
+                <field name="seller_id">43</field>
+                <field name="user_id">1</field>
+                <field name="seller_name">name_44</field>
+                <field name="product_name">Walimex Pro Beauty Dish 40cm, VC</field>
+                <field name="product_sku">IN843ELAC5DVSKBID-106814</field>
+                <field name="seller_sku">IN843ELAC5DVSKBID</field>
+                <field name="primary_category_id">683</field>
+                <field name="creation_date">2015-03-20 10:55:00</field>
+                <field name="pending_since">2016-03-16 16:09:06</field>
+                <field name="brand_name">Walimex</field>
+            </row>
+        </table_data>
+
+        <table_data name="qc_approved_list_item">
+            <row>
+                <field name="id_qc_approved_list_item">389</field>
+                <field name="product_set_id">266984</field>
+                <field name="seller_id">2909</field>
+                <field name="user_id">1</field>
+                <field name="seller_name">name_2909</field>
+                <field name="product_name">Čokoláda Chocomaze .Black Levander</field>
+                <field name="product_sku">CH505TGAD912SKBID-159273</field>
+                <field name="primary_category_id">604</field>
+                <field name="creation_date">2015-03-20 11:26:01</field>
+                <field name="approved_by">Maintenance User</field>
+                <field name="approval_date">2016-03-11 15:49:16</field>
+                <field name="brand_name">Chocomaze</field>
+            </row>
+
+            <row>
+                <field name="id_qc_approved_list_item">387</field>
+                <field name="product_set_id">267014</field>
+                <field name="seller_id">2909</field>
+                <field name="user_id">1</field>
+                <field name="seller_name">name_2909</field>
+                <field name="product_name">Čokoláda Chocomaze White dream</field>
+                <field name="product_sku">CH505TGAD91WSKBID-159303</field>
+                <field name="primary_category_id">604</field>
+                <field name="creation_date">2015-03-20 11:26:01</field>
+                <field name="approved_by">Maintenance User</field>
+                <field name="approval_date">2016-03-16 00:00:00</field>
+                <field name="brand_name">Chocomaze</field>
+            </row>
+
+            <row>
+                <field name="id_qc_approved_list_item">386</field>
+                <field name="product_set_id">267132</field>
+                <field name="seller_id">2909</field>
+                <field name="user_id">1</field>
+                <field name="seller_name">name_2386</field>
+                <field name="product_name">SKLADOM Swarovski Elements náušnice BUN 406024_GOS</field>
+                <field name="product_sku">SW669JWAENRESKBID-225944</field>
+                <field name="primary_category_id">243</field>
+                <field name="creation_date">2015-03-20 11:26:01</field>
+                <field name="approved_by">Maintenance User</field>
+                <field name="approval_date">2016-03-16 15:49:16</field>
+                <field name="brand_name">Swarovski</field>
+            </row>
+
+            <row>
+                <field name="id_qc_approved_list_item">384</field>
+                <field name="product_set_id">267358</field>
+                <field name="seller_id">2386</field>
+                <field name="user_id">8</field>
+                <field name="seller_name">name_2386</field>
+                <field name="product_name">Náramok s kryštálom Swarovski BSZ1122OPA</field>
+                <field name="product_sku">SW669JWAENXOSKBID-226170</field>
+                <field name="primary_category_id">245</field>
+                <field name="creation_date">2015-03-20 11:26:01</field>
+                <field name="approved_by">Maintenance User</field>
+                <field name="approval_date">2016-03-16 15:49:16</field>
+                <field name="brand_name">Swarovski</field>
+            </row>
+
+            <row>
+                <field name="id_qc_approved_list_item">382</field>
+                <field name="product_set_id">267359</field>
+                <field name="seller_id">2386</field>
+                <field name="user_id">8</field>
+                <field name="seller_name">name_2386</field>
+                <field name="product_name">Náramok s kryštálom Swarovski BSZ1122TAQ</field>
+                <field name="product_sku">SW669JWAENXPSKBID-226171</field>
+                <field name="primary_category_id">245</field>
+                <field name="creation_date">2015-03-20 11:26:01</field>
+                <field name="approved_by">Maintenance User</field>
+                <field name="approval_date">2016-03-16 15:49:16</field>
+                <field name="brand_name">Swarovski</field>
+            </row>
+        </table_data>
+
+        <table_data name="qc_rejected_list_item">
+            <row>
+                <field name="id_qc_rejected_list_item">4</field>
+                <field name="product_set_id">252609</field>
+                <field name="seller_id">2909</field>
+                <field name="user_id">1</field>
+                <field name="seller_name">name_1991</field>
+                <field name="product_name">Mikina Stegol 1078 šedá XL</field>
+                <field name="product_sku">IN843FFAER1ASKBID-230188</field>
+                <field name="seller_sku" xsi:nil="true"/>
+                <field name="primary_category_id">487</field>
+                <field name="creation_date">2015-03-20 11:23:44</field>
+                <field name="rejected_reasons">Wrong Description</field>
+                <field name="rejected_by">Maintenance User</field>
+                <field name="rejected_date">2016-03-11 18:49:17</field>
+                <field name="qa_comment"></field>
+            </row>
+
+            <row>
+                <field name="id_qc_rejected_list_item">5</field>
+                <field name="product_set_id">252610</field>
+                <field name="seller_id">2909</field>
+                <field name="user_id">1</field>
+                <field name="seller_name">name_1991</field>
+                <field name="product_name">Sveter E34 šedý XL</field>
+                <field name="product_sku">IN843FFAER1BSKBID-230189</field>
+                <field name="seller_sku" xsi:nil="true"/>
+                <field name="primary_category_id">487</field>
+                <field name="creation_date">2015-03-20 11:23:44</field>
+                <field name="rejected_reasons">Image Corrupt</field>
+                <field name="rejected_by">Maintenance User</field>
+                <field name="rejected_date">2016-03-16 00:00:00</field>
+                <field name="qa_comment"></field>
+            </row>
+
+            <row>
+                <field name="id_qc_rejected_list_item">6</field>
+                <field name="product_set_id">252604</field>
+                <field name="seller_id">2909</field>
+                <field name="user_id">8</field>
+                <field name="seller_name">name_2909</field>
+                <field name="product_name">Sveter E27 biely XL</field>
+                <field name="product_sku">IN843FFAER15SKBID-230183</field>
+                <field name="seller_sku" xsi:nil="true"/>
+                <field name="primary_category_id">487</field>
+                <field name="creation_date">2015-03-20 11:23:44</field>
+                <field name="rejected_reasons">Wrong Image, No White Background</field>
+                <field name="rejected_by">Maintenance User</field>
+                <field name="rejected_date">2016-03-16 18:49:17</field>
+                <field name="qa_comment"></field>
+            </row>
+
+            <row>
+                <field name="id_qc_rejected_list_item">9</field>
+                <field name="product_set_id">266997</field>
+                <field name="seller_id">2909</field>
+                <field name="user_id">8</field>
+                <field name="seller_name">name_2909</field>
+                <field name="product_name">Čokoláda Chocomaze Jumbo</field>
+                <field name="product_sku">CH505TGAD91FSKBID-159286</field>
+                <field name="seller_sku" xsi:nil="true"/>
+                <field name="primary_category_id">604</field>
+                <field name="creation_date">2015-03-20 11:26:01</field>
+                <field name="rejected_reasons">Wrong Description</field>
+                <field name="rejected_by">Maintenance User</field>
+                <field name="rejected_date">2016-03-16 18:49:17</field>
+                <field name="qa_comment"></field>
+            </row>
+
+            <row>
+                <field name="id_qc_rejected_list_item">10</field>
+                <field name="product_set_id">266998</field>
+                <field name="seller_id">5659</field>
+                <field name="user_id">8</field>
+                <field name="seller_name">name_2909</field>
+                <field name="product_name">Čokoláda Chocomaze .Vianoce biela</field>
+                <field name="product_sku">CH505TGAD91GSKBID-159287</field>
+                <field name="seller_sku" xsi:nil="true"/>
+                <field name="primary_category_id">604</field>
+                <field name="creation_date">2015-03-20 11:26:01</field>
+                <field name="rejected_reasons">Image Corrupt</field>
+                <field name="rejected_by">Maintenance User</field>
+                <field name="rejected_date">2016-03-16 18:49:17</field>
+                <field name="qa_comment"></field>
+            </row>
+        </table_data>
+
+        <table_data name="catalog_product_duplicate_group">
+            <!--Depends on     : ()-->
+            <!--Referenced from: (catalog_product)-->
+            <row>
+                <field name="id_catalog_product_duplicate_group">1</field>
+                <field name="created_at">2013-11-05 21:08:19</field>
+            </row>
+            <row>
+                <field name="id_catalog_product_duplicate_group">2</field>
+                <field name="created_at">2013-12-03 19:35:45</field>
+            </row>
+        </table_data>
+
+        <table_data name="catalog_product_set">
+            <!--Depends on     : ()-->
+            <!--Referenced from: (catalog_product,catalog_product_image,catalog_product_reject_comment,catalog_product_reject_reason)-->
+            <row>
+                <field name="id_catalog_product_set">1</field>
+                <field xsi:nil="true" name="src_id"/>
+                <field name="created_at">2013-12-03 19:35:45</field>
+                <field name="updated_at">0000-00-00 00:00:00</field>
+            </row>
+            <row>
+                <!-- ready for push to bob product set -->
+                <field name="id_catalog_product_set">20</field>
+                <field name="src_id">20000</field>
+                <field name="created_at">2013-12-04 17:24:17</field>
+                <field name="updated_at">2013-12-04 17:24:17</field>
+            </row>
+            <row>
+                <!-- ready for push to bob product set -->
+                <field name="id_catalog_product_set">21</field>
+                <field name="src_id">21000</field>
+                <field name="created_at">2013-12-04 17:24:18</field>
+                <field name="updated_at">2013-12-04 17:24:19</field>
+            </row>
+        </table_data>
+
+        <table_data name="catalog_product_image">
+            <!-- products in qc need a main image setted up -->
+            <row>
+                <field name="id_catalog_product_image">1</field>
+                <field name="src_id" xsi:nil="true" />
+                <field name="fk_catalog_product_set">1</field>
+                <field name="main">1</field>
+                <field name="created_at">0000-00-00 00:00:00</field>
+                <field name="updated_at">2013-11-06 11:43:20</field>
+            </row>
+            <row>
+                <field name="id_catalog_product_image">2</field>
+                <field name="src_id" xsi:nil="true" />
+                <field name="fk_catalog_product_set">20</field>
+                <field name="main">1</field>
+                <field name="created_at">0000-00-00 00:00:00</field>
+                <field name="updated_at">2013-11-06 11:43:20</field>
+            </row>
+        </table_data>
+
+        <table_data name="catalog_product">
+            <!--Depends on     : (catalog_attribute_set,catalog_brand,catalog_product_duplicate_group,catalog_product_set,catalog_tax_class,seller,shipment_type)-->
+            <!--Referenced from: (catalog_product_dirty)-->
+            <row>
+                <field name="id_catalog_product">1</field>
+                <field xsi:nil="true" name="src_id"/>
+                <field xsi:nil="true" name="sku"/>
+                <field name="sku_seller">TEST_DEFAULT_SELLER_SKU</field>
+                <field name="fk_seller">2909</field>
+                <field name="fk_catalog_product_set">1</field>
+                <field name="status">active</field>
+                <field name="name">default test product</field>
+                <field name="variation">...</field>
+                <field xsi:nil="true" name="primary_category"/>
+                <field name="categories">[]</field>
+                <field xsi:nil="true" name="description"/>
+                <field xsi:nil="true" name="fk_catalog_brand"/>
+                <field name="attributes">[]</field>
+                <field xsi:nil="true" name="price"/>
+                <field xsi:nil="true" name="special_price"/>
+                <field xsi:nil="true" name="special_from_date"/>
+                <field xsi:nil="true" name="special_to_date"/>
+                <field xsi:nil="true" name="fk_catalog_tax_class"/>
+                <field name="fk_shipment_type">1</field>
+                <field name="product_identifier"/>
+                <field name="condition">new</field>
+                <field name="approval_status">approved</field>
+                <field name="fk_catalog_attribute_set">1</field>
+                <field name="fk_catalog_product_duplicate_group">2</field>
+                <field xsi:nil="true" name="src_updated_at"/>
+                <field name="created_at">2016-03-01 19:35:45</field>
+                <field name="updated_at">0000-00-00 00:00:00</field>
+            </row>
+            <row>
+                <field name="id_catalog_product">2</field>
+                <field xsi:nil="true" name="src_id"/>
+                <field xsi:nil="true" name="sku"/>
+                <field name="sku_seller">TEST_DEFAULT_SELLER_SKU</field>
+                <field name="fk_seller">2909</field>
+                <field name="fk_catalog_product_set">1</field>
+                <field name="status">active</field>
+                <field name="name">default test product</field>
+                <field name="variation">...</field>
+                <field name="primary_category" xsi:nil="true"/>
+                <field name="categories">[]</field>
+                <field name="description" xsi:nil="true"/>
+                <field name="fk_catalog_brand" xsi:nil="true"/>
+                <field name="attributes">[]</field>
+                <field name="price" xsi:nil="true"/>
+                <field name="special_price" xsi:nil="true"/>
+                <field name="special_from_date" xsi:nil="true"/>
+                <field name="special_to_date" xsi:nil="true"/>
+                <field name="fk_catalog_tax_class" xsi:nil="true"/>
+                <field name="fk_shipment_type">1</field>
+                <field name="product_identifier"/>
+                <field name="condition">new</field>
+                <field name="approval_status">approved</field>
+                <field name="fk_catalog_attribute_set">1</field>
+                <field name="fk_catalog_product_duplicate_group">2</field>
+                <field name="src_updated_at" xsi:nil="true"/>
+                <field name="created_at">2016-03-15 19:35:45</field>
+                <field name="updated_at">0000-00-00 00:00:00</field>
+            </row>
+            <row>
+                <field name="id_catalog_product">3</field>
+                <field xsi:nil="true" name="src_id"/>
+                <field xsi:nil="true" name="sku"/>
+                <field name="sku_seller">TEST_DEFAULT_SELLER_SKU</field>
+                <field name="fk_seller">2909</field>
+                <field name="fk_catalog_product_set">1</field>
+                <field name="status">inactive</field>
+                <field name="name">default test product</field>
+                <field name="variation">...</field>
+                <field name="primary_category" xsi:nil="true"/>
+                <field name="categories">[]</field>
+                <field name="description" xsi:nil="true"/>
+                <field name="fk_catalog_brand" xsi:nil="true"/>
+                <field name="attributes">[]</field>
+                <field name="price" xsi:nil="true"/>
+                <field name="special_price" xsi:nil="true"/>
+                <field name="special_from_date" xsi:nil="true"/>
+                <field name="special_to_date" xsi:nil="true"/>
+                <field name="fk_catalog_tax_class" xsi:nil="true"/>
+                <field name="fk_shipment_type">1</field>
+                <field name="product_identifier"/>
+                <field name="condition">new</field>
+                <field name="approval_status">approved</field>
+                <field name="fk_catalog_attribute_set">1</field>
+                <field name="fk_catalog_product_duplicate_group">2</field>
+                <field name="src_updated_at" xsi:nil="true"/>
+                <field name="created_at">2016-03-16 19:35:45</field>
+                <field name="updated_at">0000-00-00 00:00:00</field>
+            </row>
+            <row>
+                <field name="id_catalog_product">4</field>
+                <field xsi:nil="true" name="src_id"/>
+                <field xsi:nil="true" name="sku"/>
+                <field name="sku_seller">TEST_DEFAULT_SELLER_SKU</field>
+                <field name="fk_seller">2909</field>
+                <field name="fk_catalog_product_set">1</field>
+                <field name="status">inactive</field>
+                <field name="name">default test product</field>
+                <field name="variation">...</field>
+                <field name="primary_category" xsi:nil="true"/>
+                <field name="categories">[]</field>
+                <field name="description" xsi:nil="true"/>
+                <field name="fk_catalog_brand" xsi:nil="true"/>
+                <field name="attributes">[]</field>
+                <field name="price" xsi:nil="true"/>
+                <field name="special_price" xsi:nil="true"/>
+                <field name="special_from_date" xsi:nil="true"/>
+                <field name="special_to_date" xsi:nil="true"/>
+                <field name="fk_catalog_tax_class" xsi:nil="true"/>
+                <field name="fk_shipment_type">1</field>
+                <field name="product_identifier"/>
+                <field name="condition">new</field>
+                <field name="approval_status">pending</field>
+                <field name="fk_catalog_attribute_set">1</field>
+                <field name="fk_catalog_product_duplicate_group">2</field>
+                <field name="src_updated_at" xsi:nil="true"/>
+                <field name="created_at">2016-03-16 19:35:45</field>
+                <field name="updated_at">0000-00-00 00:00:00</field>
+            </row>
+            <row>
+                <field name="id_catalog_product">5</field>
+                <field xsi:nil="true" name="src_id"/>
+                <field xsi:nil="true" name="sku"/>
+                <field name="sku_seller">TEST_DEFAULT_SELLER_SKU</field>
+                <field name="fk_seller">2909</field>
+                <field name="fk_catalog_product_set">1</field>
+                <field name="status">active</field>
+                <field name="name">default test product</field>
+                <field name="variation">...</field>
+                <field name="primary_category" xsi:nil="true"/>
+                <field name="categories">[]</field>
+                <field name="description" xsi:nil="true"/>
+                <field name="fk_catalog_brand" xsi:nil="true"/>
+                <field name="attributes">[]</field>
+                <field name="price" xsi:nil="true"/>
+                <field name="special_price" xsi:nil="true"/>
+                <field name="special_from_date" xsi:nil="true"/>
+                <field name="special_to_date" xsi:nil="true"/>
+                <field name="fk_catalog_tax_class" xsi:nil="true"/>
+                <field name="fk_shipment_type">1</field>
+                <field name="product_identifier"/>
+                <field name="condition">new</field>
+                <field name="approval_status">pending</field>
+                <field name="fk_catalog_attribute_set">1</field>
+                <field name="fk_catalog_product_duplicate_group">2</field>
+                <field name="src_updated_at" xsi:nil="true"/>
+                <field name="created_at">2016-03-16 19:35:45</field>
+                <field name="updated_at">0000-00-00 00:00:00</field>
+            </row>
+            <row>
+                <field name="id_catalog_product">6</field>
+                <field xsi:nil="true" name="src_id"/>
+                <field xsi:nil="true" name="sku"/>
+                <field name="sku_seller">TEST_DEFAULT_SELLER_SKU</field>
+                <field name="fk_seller">2909</field>
+                <field name="fk_catalog_product_set">21</field>
+                <field name="status">active</field>
+                <field name="name">default test product</field>
+                <field name="variation">...</field>
+                <field name="primary_category" xsi:nil="true"/>
+                <field name="categories">[]</field>
+                <field name="description" xsi:nil="true"/>
+                <field name="fk_catalog_brand" xsi:nil="true"/>
+                <field name="attributes">[]</field>
+                <field name="price" xsi:nil="true"/>
+                <field name="special_price" xsi:nil="true"/>
+                <field name="special_from_date" xsi:nil="true"/>
+                <field name="special_to_date" xsi:nil="true"/>
+                <field name="fk_catalog_tax_class" xsi:nil="true"/>
+                <field name="fk_shipment_type">1</field>
+                <field name="product_identifier"/>
+                <field name="condition">new</field>
+                <field name="approval_status">rejected</field>
+                <field name="fk_catalog_attribute_set">1</field>
+                <field name="fk_catalog_product_duplicate_group">2</field>
+                <field name="src_updated_at" xsi:nil="true"/>
+                <field name="created_at">2016-03-16 19:35:45</field>
+                <field name="updated_at">0000-00-00 00:00:00</field>
+            </row>
+        </table_data>
+
+        <table_data name="user">
+            <row>
+                <field name="id_user">1</field>
+                <field name="fk_seller">1</field>
+                <field name="fk_acl_role">1</field>
+                <field name="email">maintenance@Base.net</field>
+                <field name="encrypted_password">$2y$13$KKCeH4neG0Nv.0ZpQIdArORXosKzkslmq2o9DGUjHNsVRaGmgXea6</field>
+                <field name="password_salt">KKCeH4neG0Nv.0ZpQIdArR</field>
+                <field name="active">1</field>
+                <field name="deleted">0</field>
+                <field name="last_login">2015-03-27 11:18:19</field>
+                <field name="last_login_ip"></field>
+                <field name="set_password_key" xsi:nil="true" />
+                <field name="email_verified">1</field>
+                <field name="email_verify_key" xsi:nil="true" />
+                <field name="email_verify_created_at" xsi:nil="true" />
+                <field name="password_key_created_at" xsi:nil="true" />
+                <field name="api_key" xsi:nil="true" />
+                <field name="fk_language">1</field>
+                <field name="name">Maintenance User</field>
+                <field name="created_at">2015-03-20 11:12:13</field>
+                <field name="updated_at">2015-03-27 11:18:19</field>
+            </row>
+
+            <row>
+                <field name="id_user">2909</field>
+                <field name="fk_seller">2909</field>
+                <field name="fk_acl_role">4</field>
+                <field name="email">user-8@mailinator.com</field>
+                <field name="encrypted_password"></field>
+                <field name="password_salt" xsi:nil="true" />
+                <field name="active">1</field>
+                <field name="deleted">0</field>
+                <field name="last_login">0000-00-00 00:00:00</field>
+                <field name="last_login_ip"></field>
+                <field name="set_password_key" xsi:nil="true" />
+                <field name="email_verified">1</field>
+                <field name="email_verify_key" xsi:nil="true" />
+                <field name="email_verify_created_at" xsi:nil="true" />
+                <field name="password_key_created_at" xsi:nil="true" />
+                <field name="api_key" xsi:nil="true" />
+                <field name="fk_language">1</field>
+                <field name="name">name_4</field>
+                <field name="created_at">0000-00-00 00:00:00</field>
+                <field name="updated_at">0000-00-00 00:00:00</field>
+            </row>
+
+            <row>
+                <field name="id_user">47</field>
+                <field name="fk_seller">47</field>
+                <field name="fk_acl_role">4</field>
+                <field name="email">user-47@mailinator.com</field>
+                <field name="encrypted_password">$2y$13$k8Hxw.3w3vWwh1p8quR6hOAt/.K709i0R0ZC2tiFWn6IyCpTXO/86</field>
+                <field name="password_salt">k8Hxw.3w3vWwh1p8quR6hY</field>
+                <field name="active">1</field>
+                <field name="deleted">0</field>
+                <field name="last_login">2015-03-26 16:42:18</field>
+                <field name="last_login_ip"></field>
+                <field name="set_password_key" xsi:nil="true" />
+                <field name="email_verified">1</field>
+                <field name="email_verify_key" xsi:nil="true" />
+                <field name="email_verify_created_at" xsi:nil="true" />
+                <field name="password_key_created_at" xsi:nil="true" />
+                <field name="api_key" xsi:nil="true" />
+                <field name="fk_language">1</field>
+                <field name="name">name_43</field>
+                <field name="created_at">0000-00-00 00:00:00</field>
+                <field name="updated_at">2015-03-26 16:42:19</field>
+            </row>
+        </table_data>
+    </database>
+</mysqldump>
